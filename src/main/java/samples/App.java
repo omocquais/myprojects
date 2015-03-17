@@ -4,8 +4,13 @@ package samples;
  * Hello world!
  *
  */
-public class App 
+public class App
 {
+    
+    private App(){
+        System.out.println("constructeur privé");
+    }
+    
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
