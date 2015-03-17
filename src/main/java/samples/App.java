@@ -11,6 +11,14 @@ public class App
       System.out.println( "Hello World!" );
       String test=null;
       if (test.isEmpty()){}
+      if (test.isEmpty()){}
+
+      if (test.isEmpty()){}
+
+      if (test.isEmpty()){}
+
+      if (test.isEmpty()){}
+
     }
     
     public static void main( String[] args )
