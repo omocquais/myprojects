@@ -8,7 +8,7 @@ public class App
 {
     
     private App(){
-        System.out.println("constructeur privé");
+        
     }
     
     public static void main( String[] args )
