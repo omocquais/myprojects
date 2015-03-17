@@ -8,9 +8,9 @@ public class App
 {
     
     private App(){
-       System.out.println( "Hello World!" );
-           String test=null;
-        if (test.isEmpty())
+      System.out.println( "Hello World!" );
+      String test=null;
+      if (test.isEmpty()){}
     }
     
     public static void main( String[] args )
